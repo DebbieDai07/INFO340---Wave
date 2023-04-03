@@ -1,0 +1,44 @@
+/* 
+include at least two (2) rules that change at 
+least three (3) different properties total. 
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0 ;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+    font-family:  Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: .5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+header {
+    background-color: lightskyblue;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+header p {
+    font-style: italic;
+}
+
+header p:hover {
+    color: aliceblue;
+}
