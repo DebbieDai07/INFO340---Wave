@@ -1,0 +1,717 @@
+[
+  {
+    "First Name": "Sabrina",
+    "Last Name": "Casey",
+    "Gender": "Female",
+    "Age": 21,
+    "Email": "s.casey@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Sabrina_Casey.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "deja vu",
+      "Artist": "Olivia Rodrigo"
+    }
+  },
+  {
+    "First Name": "Freddie",
+    "Last Name": "Taylor",
+    "Gender": "Male",
+    "Age": 26,
+    "Email": "f.taylor@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Freddie_Taylor.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Easy On Me",
+      "Artist": "Adele"
+    }
+  },
+  {
+    "First Name": "Paul",
+    "Last Name": "Jones",
+    "Gender": "Male",
+    "Age": 24,
+    "Email": "p.jones@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Paul_Jones.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Save Your Tears",
+      "Artist": "The Weeknd"
+    }
+  },
+  {
+    "First Name": "Patrick",
+    "Last Name": "Walker",
+    "Gender": "Male",
+    "Age": 29,
+    "Email": "p.walker@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Patrick_Walker.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Leave The Door Open",
+      "Artist": "Bruno Mars"
+    }
+  },
+  {
+    "First Name": "Michelle",
+    "Last Name": "Chapman",
+    "Gender": "Female",
+    "Age": 23,
+    "Email": "m.chapman@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Michelle_Chapman.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Butter",
+      "Artist": "BTS"
+    }
+  },
+  {
+    "First Name": "Miranda",
+    "Last Name": "Smith",
+    "Gender": "Female",
+    "Age": 28,
+    "Email": "m.smith@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Miranda_Smith.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Don't Go Yet",
+      "Artist": "Camila Cabello"
+    }
+  },
+  {
+    "First Name": "Vincent",
+    "Last Name": "Foster",
+    "Gender": "Male",
+    "Age": 18,
+    "Email": "v.foster@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Vincent_Foster.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Leave The Door Open",
+      "Artist": "Bruno Mars"
+    }
+  },
+  {
+    "First Name": "Darcy",
+    "Last Name": "Howard",
+    "Gender": "Female",
+    "Age": 23,
+    "Email": "d.howard@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Darcy_Howard.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "LALISA",
+      "Artist": "LISA"
+    }
+  },
+  {
+    "First Name": "Ned",
+    "Last Name": "Anderson",
+    "Gender": "Male",
+    "Age": 18,
+    "Email": "n.anderson@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Ned_Anderson.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "You Right",
+      "Artist": "Doja Cat"
+    }
+  },
+  {
+    "First Name": "Cadie",
+    "Last Name": "Wells",
+    "Gender": "Female",
+    "Age": 21,
+    "Email": "c.wells@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Cadie_Wells.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "jealousy, jealousy",
+      "Artist": "Olivia Rodrigo"
+    }
+  },
+  {
+    "First Name": "Charlotte",
+    "Last Name": "Kelly",
+    "Gender": "Female",
+    "Age": 28,
+    "Email": "c.kelly@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Charlotte_Kelly.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "good 4 u",
+      "Artist": "Olivia Rodrigo"
+    }
+  },
+  {
+    "First Name": "Thomas",
+    "Last Name": "Crawford",
+    "Gender": "Male",
+    "Age": 25,
+    "Email": "t.crawford@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Thomas_Crawford.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Happier Than Ever",
+      "Artist": "Billie Eilish"
+    }
+  },
+  {
+    "First Name": "Carlos",
+    "Last Name": "Payne",
+    "Gender": "Male",
+    "Age": 22,
+    "Email": "c.payne@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Carlos_Payne.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Praise God",
+      "Artist": "Kanye West"
+    }
+  },
+  {
+    "First Name": "Rubie",
+    "Last Name": "Harris",
+    "Gender": "Female",
+    "Age": 29,
+    "Email": "r.harris@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Rubie_Harris.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "jealousy, jealousy",
+      "Artist": "Olivia Rodrigo"
+    }
+  },
+  {
+    "First Name": "Tyler",
+    "Last Name": "Stevens",
+    "Gender": "Male",
+    "Age": 22,
+    "Email": "t.stevens@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Tyler_Stevens.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Say You Won't Let Go",
+      "Artist": "James Arthur"
+    }
+  },
+  {
+    "First Name": "Preston",
+    "Last Name": "Murphy",
+    "Gender": "Male",
+    "Age": 23,
+    "Email": "p.murphy@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Preston_Murphy.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Get Into It (Yuh)",
+      "Artist": "Doja Cat"
+    }
+  },
+  {
+    "First Name": "Brain",
+    "Last Name": "Farrell",
+    "Gender": "Male",
+    "Age": 19,
+    "Email": "g.farrell@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Brian_Farrell.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "LALISA",
+      "Artist": "LISA"
+    }
+  },
+  {
+    "First Name": "Hailey",
+    "Last Name": "Cooper",
+    "Gender": "Female",
+    "Age": 27,
+    "Email": "h.cooper@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Hailey_Cooper.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "No Role Modelz",
+      "Artist": "J. Cole"
+    }
+  },
+  {
+    "First Name": "Brianna",
+    "Last Name": "Richardson",
+    "Gender": "Female",
+    "Age": 18,
+    "Email": "b.richardson@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Brianna_Richardson.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Toxic",
+      "Artist": "BoyWithUke"
+    }
+  },
+  {
+    "First Name": "Steven",
+    "Last Name": "Mason",
+    "Gender": "Male",
+    "Age": 27,
+    "Email": "s.mason@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Steven_Mason.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "MONTERO (Call Me By Your Name)",
+      "Artist": "Lil Nas X"
+    }
+  },
+  {
+    "First Name": "Aston",
+    "Last Name": "Kelly",
+    "Gender": "Male",
+    "Age": 18,
+    "Email": "a.kelly@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Aston_Kelly.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Woman",
+      "Artist": "Doja Cat"
+    }
+  },
+  {
+    "First Name": "Brad",
+    "Last Name": "Stevens",
+    "Gender": "Male",
+    "Age": 27,
+    "Email": "b.stevens@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Brad_Stevens.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "you broke me first",
+      "Artist": "Tate McRae"
+    }
+  },
+  {
+    "First Name": "Gary",
+    "Last Name": "Perry",
+    "Gender": "Male",
+    "Age": 30,
+    "Email": "s.perry@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Gary_Perry.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Yellow",
+      "Artist": "Coldplay"
+    }
+  },
+  {
+    "First Name": "Adrianna",
+    "Last Name": "Fowler",
+    "Gender": "Female",
+    "Age": 27,
+    "Email": "a.fowler@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Adrianna_Fowler.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Love Again",
+      "Artist": "Dua Lipa"
+    }
+  },
+  {
+    "First Name": "Fenton",
+    "Last Name": "Thompson",
+    "Gender": "Male",
+    "Age": 23,
+    "Email": "f.thompson@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Fenton_Thompson.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "love nwantiti (ah ah ah)",
+      "Artist": "CKay"
+    }
+  },
+  {
+    "First Name": "Sabrina",
+    "Last Name": "Alexander",
+    "Gender": "Female",
+    "Age": 23,
+    "Email": "s.alexander@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Sabrina_Alexander.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Daddy Issues",
+      "Artist": "The Neighbourhood"
+    }
+  },
+  {
+    "First Name": "Adelaide",
+    "Last Name": "Harper",
+    "Gender": "Female",
+    "Age": 26,
+    "Email": "a.harper@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Adelaide_Harper.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Save Your Tears",
+      "Artist": "The Weeknd"
+    }
+  },
+  {
+    "First Name": "Jack",
+    "Last Name": "Allen",
+    "Gender": "Male",
+    "Age": 28,
+    "Email": "j.allen@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Jack_Allen.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Butter",
+      "Artist": "BTS"
+    }
+  },
+  {
+    "First Name": "Ted",
+    "Last Name": "Harrison",
+    "Gender": "Male",
+    "Age": 22,
+    "Email": "t.harrison@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Ted_Harrison.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Bad Habits",
+      "Artist": "Ed Sheeran"
+    }
+  },
+  {
+    "First Name": "Steven",
+    "Last Name": "Ryan",
+    "Gender": "Male",
+    "Age": 30,
+    "Email": "s.ryan@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Steven_Ryan.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Acapulco",
+      "Artist": "Jason Derulo"
+    }
+  },
+  {
+    "First Name": "Hallie",
+    "Last Name": "Stewart",
+    "Gender": "Female",
+    "Age": 29,
+    "Email": "a.stewart@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Hallie_Stewart.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "You Right",
+      "Artist": "Doja Cat"
+    }
+  },
+  {
+    "First Name": "Sabrina",
+    "Last Name": "Myers",
+    "Gender": "Female",
+    "Age": 26,
+    "Email": "s.myers@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Sabrina_Myers.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "deja vu",
+      "Artist": "Olivia Rodrigo"
+    }
+  },
+  {
+    "First Name": "Lucia",
+    "Last Name": "Thomas",
+    "Gender": "Female",
+    "Age": 25,
+    "Email": "l.thomas@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Lucia_Thomas.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Easy On Me",
+      "Artist": "Adele"
+    }
+  },
+  {
+    "First Name": "Madaline",
+    "Last Name": "Douglas",
+    "Gender": "Female",
+    "Age": 22,
+    "Email": "m.douglas@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Madaline_Douglas.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Happier Than Ever",
+      "Artist": "Billie Eilish"
+    }
+  },
+  {
+    "First Name": "Adelaide",
+    "Last Name": "Riley",
+    "Gender": "Female",
+    "Age": 25,
+    "Email": "a.riley@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Adelaide_Riley.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Ley Seca",
+      "Artist": "Jhay Cortez"
+    }
+  },
+  {
+    "First Name": "Catherine",
+    "Last Name": "Farrell",
+    "Gender": "Female",
+    "Age": 18,
+    "Email": "c.farrell@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Catherine_Farrell.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Smells Like Teen Spirit",
+      "Artist": "Nirvana"
+    }
+  },
+  {
+    "First Name": "Isabella",
+    "Last Name": "Morris",
+    "Gender": "Female",
+    "Age": 19,
+    "Email": "i.morris@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Isabella_Morris.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Daddy Issues",
+      "Artist": "The Neighbourhood"
+    }
+  },
+  {
+    "First Name": "Evelyn",
+    "Last Name": "Adams",
+    "Gender": "Female",
+    "Age": 26,
+    "Email": "e.adams@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Evelyn_Adams.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Say You Won't Let Go",
+      "Artist": "James Arthur"
+    }
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Craig",
+    "Gender": "Male",
+    "Age": 24,
+    "Email": "j.craig@randatmail.com",
+    "Profile Pic": "../img/userprofiles/John_Craig.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Gangsta's Paradise",
+      "Artist": "Coolio"
+    }
+  },
+  {
+    "First Name": "Brianna",
+    "Last Name": "Harrison",
+    "Gender": "Female",
+    "Age": 20,
+    "Email": "b.harrison@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Brianna_Harrison.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Easy On Me",
+      "Artist": "Adele"
+    }
+  },
+  {
+    "First Name": "Mary",
+    "Last Name": "Sullivan",
+    "Gender": "Female",
+    "Age": 29,
+    "Email": "m.sullivan@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Mary_Sullivan.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Don't Go Yet",
+      "Artist": "Camila Cabello"
+    }
+  },
+  {
+    "First Name": "Amy",
+    "Last Name": "Cunningham",
+    "Gender": "Female",
+    "Age": 22,
+    "Email": "a.cunningham@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Amy_Cunningham.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Ley Seca",
+      "Artist": "Jhay Cortez"
+    }
+  },
+  {
+    "First Name": "April",
+    "Last Name": "Elliott",
+    "Gender": "Female",
+    "Age": 27,
+    "Email": "a.elliott@randatmail.com",
+    "Profile Pic": "../img/userprofiles/April_Elliott.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Wildest Dreams ",
+      "Artist": "Taylor Swift"
+    }
+  },
+  {
+    "First Name": "Ted",
+    "Last Name": "Grant",
+    "Gender": "Male",
+    "Age": 20,
+    "Email": "t.grant@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Ted_Grant.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Without Me",
+      "Artist": "Eminem"
+    }
+  },
+  {
+    "First Name": "Tyler",
+    "Last Name": "Turner",
+    "Gender": "Male",
+    "Age": 20,
+    "Email": "t.stewart@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Tyler_Turner.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "goosebumps",
+      "Artist": "Travis Scott"
+    }
+  },
+  {
+    "First Name": "Adelaide",
+    "Last Name": "Brown",
+    "Gender": "Female",
+    "Age": 19,
+    "Email": "a.brown@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Adelaide_Brown.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Love Again",
+      "Artist": "Dua Lipa"
+    }
+  },
+  {
+    "First Name": "Haris",
+    "Last Name": "Gibson",
+    "Gender": "Male",
+    "Age": 26,
+    "Email": "h.gibson@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Haris_Gibson.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Circles",
+      "Artist": "Post Malone"
+    }
+  },
+  {
+    "First Name": "Tess",
+    "Last Name": "Taylor",
+    "Gender": "Female",
+    "Age": 22,
+    "Email": "t.taylor@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Tess_Taylor.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Another Love",
+      "Artist": "Tom Odell"
+    }
+  },
+  {
+    "First Name": "Albert",
+    "Last Name": "Johnston",
+    "Gender": "Male",
+    "Age": 28,
+    "Email": "a.johnston@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Albert_Johnston.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "Bad Habits",
+      "Artist": "Ed Sheeran"
+    }
+  },
+  {
+    "First Name": "Naomi",
+    "Last Name": "Martin",
+    "Gender": "Female",
+    "Age": 27,
+    "Email": "n.martin@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Naomi_Martin.jpeg",
+    "Following": false,
+    "Listening": {
+      "Track Name": "deja vu",
+      "Artist": "Olivia Rodrigo"
+    }
+  },
+  {
+    "First Name": "Valeria",
+    "Last Name": "Gibson",
+    "Gender": "Female",
+    "Age": 22,
+    "Email": "v.gibson@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Valeria_Gibson.jpeg",
+    "Following": true,
+    "Listening": {
+      "Track Name": "Shivers",
+      "Artist": "Ed Sheeran"
+    }
+  },
+  {
+    "First Name": "Roman",
+    "Last Name": "Ellis",
+    "Gender": "Male",
+    "Age": 19,
+    "Email": "r.ellis@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Roman_Ellis.jpeg",
+    "Following": true,
+    "Listening": {
+      "Track Name": "Blinding Lights",
+      "Artist": "The Weeknd"
+    }
+  },
+  {
+    "First Name": "Frederick",
+    "Last Name": "Montgomery",
+    "Gender": "Male",
+    "Age": 18,
+    "Email": "f.montgomery@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Frederick_Montgomery.jpeg",
+    "Following": true,
+    "Listening": {
+      "Track Name": "good 4 u",
+      "Artist": "Olivia Rodrigo"
+    }
+  },
+  {
+    "First Name": "Briony",
+    "Last Name": "Adams",
+    "Gender": "Female",
+    "Age": 21,
+    "Email": "b.adams@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Briony_Adams.jpeg",
+    "Following": true,
+    "Listening": {
+      "Track Name": "Girls Want Girls",
+      "Artist": "Drake"
+    }
+  },
+  {
+    "First Name": "Roman",
+    "Last Name": "Douglas",
+    "Gender": "Male",
+    "Age": 29,
+    "Email": "r.douglas@randatmail.com",
+    "Profile Pic": "../img/userprofiles/Roman_Douglas.jpeg",
+    "Following": true,
+    "Listening": {
+      "Track Name": "INDUSTRY BABY",
+      "Artist": "Lil Nas X"
+    }
+  }
+]
